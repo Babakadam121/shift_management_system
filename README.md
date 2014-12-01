@@ -52,7 +52,7 @@ EXTRAS
 
 12) Admins can set restrictions of employees so that they cannot request any further shift changes for the next month.
 
-13) Integrate Google Calendar API (Post action) so logged in user can 
+13)Integrate Google Calendar API (Post action) so logged in user can have their schedule on their google calendar.
 
 ##Acknowledgements
  Team members include:
