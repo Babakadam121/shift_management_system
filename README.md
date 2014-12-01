@@ -7,7 +7,7 @@ Shiftable allows employess to switch shifts with other employees when needed. We
 At Shiftable, we believe that requesting shift change should be <strong>easy, convenient, and reliable.</strong>. We understand the importance of having a dependable online scheduling tool in today's always-connected world. 
 
 ##Documentation
-Shiftable is a group project built on Ruby on Rails & JavaScript for General Assembly's Web Development Immersive 2 in Washington, DC.
+Shiftable is a group project built on Ruby on Rails & JavaScript for General Assembly's Web Development Immersive 3 in Washington, DC.
 
 ##Technologies used
 * Ruby 2.1.2
