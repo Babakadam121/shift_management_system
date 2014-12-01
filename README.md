@@ -66,4 +66,6 @@ EXTRAS
 ##Contact
 If you have questions about how this website was built, or suggestions for how it could be improved, please contact us.
 
-Take a look at our [ERD] (http://rarmv.herokuapp.com/show?utf8=%E2%9C%93&start_url=https%3A%2F%2Fgithub.com%2FBabakadam121%2Fshift_management_system)
+Take a look at our [ERD] (http://rarmv.herokuapp.com/show?utf8=%E2%9C%93&start_url=https%3A%2F%2Fgithub.com%2FBabakadam121%2Fshift_management_system) and our [Wireframe] (https://trello-attachments.s3.amazonaws.com/54650c4e92ebca4521c7cda7/5466495c79b5c180895880d0/264097c80115dabec9c6a93c4b4f780e/wireFrame_sample.pdf)
+
+
